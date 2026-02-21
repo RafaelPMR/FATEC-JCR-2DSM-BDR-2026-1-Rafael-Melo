@@ -1,7 +1,7 @@
 # Portfólio – Banco de Dados Relacional – 2026/1
 
 ## 👤 Aluno
-- Nome:Rafael Prado de Melo Raimundo
+- Nome: Rafael Prado de Melo Raimundo
 - LinkedIn: 
 - GitHub: https://github.com/RafaelPMR
 
